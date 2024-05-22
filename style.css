@@ -39,7 +39,7 @@ body{
     color:#731dd8;
 }
 
-#reset{
+#reset-btn{
     padding: 1rem;
     font-size: 1.245rem;
     background-color: #191913;
@@ -47,19 +47,19 @@ body{
     border-radius: 1rem;
 
 }
-#New-game{
+#new-btn{
     padding: 1rem;
     font-size: 1.245rem;
     background-color: #191913;
     color:white;
     border-radius: 1rem;
 }
-#ms{
+#msg{
     color:#ffffc7;
     font-size: 5vmin;
 }
 
-.msg{
+.msg-container{
     height:30vmin;
 }
 
